@@ -35,7 +35,7 @@ body {
     color:#94A69F;
 }
 
-.img{ 
+#featured img{ 
   border: 5px;
   border-width: thick; 
   border-color:rgb(152,173,166)
