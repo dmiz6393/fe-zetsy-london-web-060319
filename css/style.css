@@ -1,5 +1,10 @@
 /*////////////// Fonts //////////////*/
 
+font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
+}
+
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -42,12 +47,15 @@ a:hover img {
 } 
 
 #h2 {
-  display: block;
   font-size: 2em;
   font-family: 'Times New Roman', serif; 
   font-weight:bold; 
   color:#94A69F; 
     } 
+ 
+ p { 
+   
+   
     
 .footer {
 	float:right;
