@@ -53,7 +53,10 @@ a:hover img {
   color:#94A69F; 
     } 
  
- p { 
+ p { color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+ } 
    
    
     
