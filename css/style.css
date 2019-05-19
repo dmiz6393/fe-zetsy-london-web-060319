@@ -35,7 +35,7 @@ body {
     color:#94A69F;
 }
 
-.title a:hover {
+.title:hover {
 	color: rgb(111,127,122);
 }
 
