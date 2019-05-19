@@ -33,7 +33,7 @@ body {
 .img{ 
   border: 5px;
   border-width: thick; 
-  color:rgb(152,173,166)
+  border-color:rgb(152,173,166)
 } 
 
 a:hover img {
