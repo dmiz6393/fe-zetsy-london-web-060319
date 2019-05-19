@@ -29,5 +29,10 @@ body {
     border-bottom: 1px solid #ccc;
     color:#94A69F;
 }
+
+#featured img{ 
+  border: 5px;
+  color:rgb(152,173,166)
+} 
   
   
