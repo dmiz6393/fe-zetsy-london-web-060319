@@ -47,6 +47,11 @@ a:hover img {
   font-weight:bold; 
   color:#94A69F; 
     } 
+    
+.footer {
+	float:right;
+	font-size:10px;
+} 
 
 
   
