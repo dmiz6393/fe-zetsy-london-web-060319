@@ -58,6 +58,10 @@ a:hover img {
 	margin: 0 0 20px 0;
  } 
    
+
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
    
     
 .footer {
