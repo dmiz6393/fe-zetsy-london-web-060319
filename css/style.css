@@ -35,6 +35,11 @@ body {
   color:rgb(152,173,166)
 } 
 
-.h2 
+.h2 {
+  font-family: 'Baskerville', serif;
+    border-bottom: 1px solid #ccc;
+    color:#94A69F; 
+} 
+}
   
   
