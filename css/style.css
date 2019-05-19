@@ -35,6 +35,11 @@ a img{
   color:rgb(152,173,166)
 } 
 
+a:hover img {
+	border:5px green solid;
+	opacity:1.0;
+} 
+
 #h2 {
   display: block;
   font-size: 2em;
