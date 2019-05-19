@@ -13,6 +13,7 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
+	color:;
 }
 
 .wrapper {
@@ -71,7 +72,7 @@ body {
     
 .footer {
 	float:right;
-	font-size:11px;
+	font-size:12px;
 } 
 
 
